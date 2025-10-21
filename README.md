@@ -24,11 +24,18 @@
 
 ### 2. Установка зависимостей
 
+```Bash
+git clone https://github.com/MRX32x64/WB_PARSER.git
+cd wildberries-parser
+```
+
+### 3. Установка зависимостей
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Настройка бота
+### 4. Настройка бота
 
 Замените YOUR_BOT_TOKEN в файле finance_bot.py на ваш реальный токен:
 ```Python
