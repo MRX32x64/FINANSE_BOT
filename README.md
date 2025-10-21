@@ -25,8 +25,8 @@
 ### 2. Клонирование репозитория
 
 ```Bash
-git clone https://github.com/MRX32x64/WB_PARSER.git
-cd WB_PARSER
+git clone https://github.com/MRX32x64/FINANSE_BOT.git
+cd FINANSE_BOT
 ```
 
 ### 3. Установка зависимостей
