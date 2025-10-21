@@ -22,11 +22,11 @@
 3. Введите имя бота (например: "My Finance Bot")
 4. Получите токен бота (сохраните его!)
 
-### 2. Установка зависимостей
+### 2. Клонирование репозитория
 
 ```Bash
 git clone https://github.com/MRX32x64/WB_PARSER.git
-cd wildberries-parser
+cd WB_PARSER
 ```
 
 ### 3. Установка зависимостей
